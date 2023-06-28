@@ -16,3 +16,4 @@
 #define VSYNC_GPIO_NUM 42
 #define HREF_GPIO_NUM 41
 #define PCLK_GPIO_NUM 36
+#define LED_GPIO_NUM 10
